@@ -42,4 +42,4 @@ alt="navneet-panchayan-189688164" height="40" width="40" style="margin-top: -8px
 
 
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshurajanand&show_icons=true&locale=en&layout=compact" alt="priyanshurajanand" width="500px/></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshurajanand&show_icons=true&locale=en&layout=compact" alt="priyanshurajanand" width="500px" /></p>
