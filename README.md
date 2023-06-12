@@ -15,7 +15,6 @@
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
 alt="navneet-panchayan-189688164" height="40" width="40" style="margin-top: -8px"/></a>
 
-<h3 align="left">Languages and Tools:</h3>
 <h3 align="">Technology & Tools:</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
